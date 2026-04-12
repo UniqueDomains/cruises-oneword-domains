@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cruises one-word domains from Uni
 
 **Public extract:** 9,708 rows · **Live catalog:** 9,707 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/cruises`  
 **Best for:** founders, investors, studios
 
@@ -67,12 +67,12 @@ print(df.head())
 | good.cruises     | available | $14.99    | $81.99        | 82             | 55     | 4      | name.com          |
 | domain.cruises   | resell    | —         | —             | 80             | 64     | 6      | Automattic Inc.   |
 | business.cruises | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap         |
-| zero.cruises     | available | $14.99    | $81.99        | 112            | 53     | 4      | name.com          |
+| zero.cruises     | available | $14.99    | $81.99        | 112            | 54     | 4      | name.com          |
 | love.cruises     | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC  |
 | fast.cruises     | premium   | $250      | $250          | 82             | 53     | 4      | name.com          |
 | data.cruises     | available | $68.98    | —             | 70             | 53     | 4      | namecheap         |
 | find.cruises     | resell    | —         | —             | 110            | 50     | 4      | GoDaddy.com, LLC  |
-| one.cruises      | premium   | $500      | $500          | 132            | 51     | 3      | name.com          |
+| one.cruises      | premium   | $500      | $500          | 132            | 50     | 3      | name.com          |
 | alpha.cruises    | available | $14.99    | $81.99        | 90             | 51     | 5      | name.com          |
 | travel.cruises   | resell    | —         | —             | 115            | 48     | 6      | Spaceship, Inc.   |
 | game.cruises     | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com          |
@@ -83,7 +83,7 @@ print(df.head())
 | time.cruises     | resell    | —         | —             | 128            | 45     | 4      | NameCheap, Inc.   |
 | abc.cruises      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap         |
 | snap.cruises     | available | $14.99    | $81.99        | 90             | 46     | 4      | name.com          |
-| star.cruises     | resell    | —         | —             | 86             | 45     | 4      | Sav.com, LLC - 25 |
+| star.cruises     | resell    | —         | —             | 86             | 44     | 4      | Sav.com, LLC - 25 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
