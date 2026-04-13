@@ -69,7 +69,7 @@ print(df.head())
 | business.cruises | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap         |
 | zero.cruises     | available | $14.99    | $81.99        | 112            | 53     | 4      | name.com          |
 | love.cruises     | resell    | —         | —             | 86             | 51     | 4      | GoDaddy.com, LLC  |
-| fast.cruises     | premium   | $250      | $250          | 82             | 53     | 4      | name.com          |
+| fast.cruises     | premium   | $250      | $250          | 82             | 52     | 4      | name.com          |
 | data.cruises     | available | $68.98    | —             | 70             | 53     | 4      | namecheap         |
 | find.cruises     | resell    | —         | —             | 110            | 50     | 4      | GoDaddy.com, LLC  |
 | one.cruises      | premium   | $500      | $500          | 132            | 50     | 3      | name.com          |
@@ -78,10 +78,10 @@ print(df.head())
 | game.cruises     | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com          |
 | digital.cruises  | available | $14.99    | $81.99        | 100            | 50     | 7      | name.com          |
 | car.cruises      | resell    | —         | —             | 94             | 46     | 3      | Name.com, Inc.    |
-| design.cruises   | premium   | $250      | $250          | 108            | 50     | 6      | name.com          |
+| abc.cruises      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap         |
 | security.cruises | available | $68.98    | —             | 70             | 49     | 8      | namecheap         |
 | time.cruises     | resell    | —         | —             | 128            | 45     | 4      | NameCheap, Inc.   |
-| abc.cruises      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap         |
+| life.cruises     | premium   | $260      | $260          | 84             | 50     | 4      | namecheap         |
 | snap.cruises     | available | $14.99    | $81.99        | 90             | 46     | 4      | name.com          |
 | star.cruises     | resell    | —         | —             | 86             | 43     | 4      | Sav.com, LLC - 25 |
 
