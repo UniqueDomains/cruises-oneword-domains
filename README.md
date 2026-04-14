@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C708%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C709%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C708%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .cruises one-word domains from Uni
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,708 rows · **Live catalog:** 9,708 domains
+**Public extract:** 9,709 rows · **Live catalog:** 9,708 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/cruises`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CRUISES one-word doma
 
 ### Files
 
-- `cruises.csv` — public CSV extract (9,708 rows)
-- `cruises.json` — public JSON extract (9,708 rows)
+- `cruises.csv` — public CSV extract (9,709 rows)
+- `cruises.json` — public JSON extract (9,709 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -76,7 +76,7 @@ print(df.head())
 | alpha.cruises    | available | $14.99    | $81.99        | 90             | 51     | 5      | name.com          |
 | travel.cruises   | resell    | —         | —             | 115            | 48     | 6      | Spaceship, Inc.   |
 | game.cruises     | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com          |
-| digital.cruises  | available | $14.99    | $81.99        | 100            | 50     | 7      | name.com          |
+| digital.cruises  | available | $14.99    | $81.99        | 100            | 49     | 7      | name.com          |
 | car.cruises      | resell    | —         | —             | 94             | 46     | 3      | Name.com, Inc.    |
 | abc.cruises      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap         |
 | security.cruises | available | $68.98    | —             | 70             | 49     | 8      | namecheap         |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,708-row public sample | 9,708 live domains                               |
+| 9,709-row public sample | 9,708 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
