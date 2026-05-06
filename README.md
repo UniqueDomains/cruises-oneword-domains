@@ -1,10 +1,10 @@
-# Available .CRUISES One-Word Domains (12,674)
+# Available .CRUISES One-Word Domains (12,673)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C674%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C673%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cruises one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,674 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,673 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,674 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,673 domains · **Median ask:** $22.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/cruises`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,14 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| homes.cruises     | available | $14.99    | —             | 86             | 34     | 5      | name.com       |
+| finals.cruises    | available | $14.99    | —             | 80             | 7      | 6      | name.com       |
+| jewels.cruises    | available | $14.99    | —             | 80             | 15     | 6      | name.com       |
+| barup.cruises     | available | $14.99    | —             | 82             | 2      | 6      | name.com       |
+| Apples.cruises    | available | $68.98    | —             | 90             | 16     | 6      | namecheap      |
+| edamame.cruises   | available | $14.99    | —             | 80             | 9      | 7      | name.com       |
+| toneup.cruises    | available | $14.99    | —             | 80             | 5      | 7      | name.com       |
+| pierogi.cruises   | available | $14.99    | —             | 82             | 7      | 7      | name.com       |
 | robots.cruises    | available | $14.99    | —             | 62             | 47     | 6      | name.com       |
 | flights.cruises   | resell    | —         | —             | 61             | 22     | 7      | Name.com, Inc. |
 | etc.cruises       | premium   | $82.50    | —             | 58             | 34     | 3      | name.com       |
@@ -74,16 +82,8 @@ print(df.head())
 | stories.cruises   | available | $14.99    | —             | 58             | 36     | 7      | name.com       |
 | LongBeach.cruises | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap      |
 | aliens.cruises    | available | $14.99    | —             | 56             | 35     | 6      | name.com       |
-| homes.cruises     | available | $14.99    | —             | 86             | 34     | 5      | name.com       |
 | spectra.cruises   | available | $14.99    | —             | 62             | 34     | 7      | name.com       |
 | payments.cruises  | available | $14.99    | —             | 58             | 33     | 8      | name.com       |
-| partners.cruises  | available | $14.99    | —             | 61             | 32     | 8      | name.com       |
-| trends.cruises    | available | $14.99    | —             | 60             | 32     | 6      | name.com       |
-| letsgo.cruises    | available | $14.99    | —             | 57             | 31     | 7      | name.com       |
-| maps.cruises      | available | $14.99    | —             | 56             | 31     | 4      | name.com       |
-| spaces.cruises    | available | $14.99    | —             | 54             | 30     | 6      | name.com       |
-| videos.cruises    | available | $14.99    | —             | 52             | 30     | 6      | name.com       |
-| dogs.cruises      | available | $14.99    | —             | 76             | 28     | 4      | name.com       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,674 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,673 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word domains on the .cruises extension. The set spans broad dictionary-style terms and more niche words, with examples such as girls.cruises, jewels.cruises, homes.cruises, and forces.cruises. For founders, the main question is whether the word feels directly relevant to cruise travel or can still support a credible brand. For investors, the key test is tighter: whether the word has clear category fit, commercial meaning, and a low enough ask to justify the extension-specific demand profile. With a median ask of 22.64, price discipline matters less than word quality and relevance.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names use the .cruises extension
+- 12,673 one-word domains in this selection
+- Median ask across the set is 22.64
+- Favor clear, travel-relevant words over vague terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
