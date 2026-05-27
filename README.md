@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cruises one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,672 domains · **Median ask:** $22.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/cruises`  
 **Best for:** founders, investors, studios
 
@@ -74,13 +74,13 @@ print(df.head())
 | pierogi.cruises   | available | $14.99    | —             | 82             | 7      | 7      | name.com       |
 | robots.cruises    | available | $14.99    | —             | 62             | 47     | 6      | name.com       |
 | flights.cruises   | resell    | —         | —             | 61             | 22     | 7      | Name.com, Inc. |
-| etc.cruises       | premium   | $82.50    | —             | 58             | 34     | 3      | name.com       |
+| etc.cruises       | premium   | $82.50    | —             | 58             | 32     | 3      | name.com       |
 | skills.cruises    | available | $14.99    | —             | 58             | 47     | 6      | name.com       |
 | systems.cruises   | premium   | $123.75   | —             | 46             | 27     | 7      | name.com       |
 | Tools.cruises     | available | $68.98    | —             | 56             | 40     | 5      | namecheap      |
 | seas.cruises      | premium   | $123.75   | —             | 58             | 13     | 4      | name.com       |
 | stories.cruises   | available | $14.99    | —             | 58             | 36     | 7      | name.com       |
-| LongBeach.cruises | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap      |
+| LongBeach.cruises | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap      |
 | aliens.cruises    | available | $14.99    | —             | 56             | 35     | 6      | name.com       |
 | spectra.cruises   | available | $14.99    | —             | 62             | 34     | 7      | name.com       |
 | payments.cruises  | available | $14.99    | —             | 58             | 33     | 8      | name.com       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
