@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cruises one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,672 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,672 domains · **Median ask:** $22.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,672 domains · **Median ask:** $21.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cruises`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cruises`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CRUISES one-word doma
 
 ### Files
 
-- `cruises.csv` — public CSV extract (1,000 rows)
-- `cruises.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cruises.csv`, public CSV extract (1,000 rows)
+- `cruises.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| homes.cruises     | available | $14.99    | —             | 86             | 34     | 5      | name.com       |
-| finals.cruises    | available | $14.99    | —             | 80             | 7      | 6      | name.com       |
-| jewels.cruises    | available | $14.99    | —             | 80             | 15     | 6      | name.com       |
-| barup.cruises     | available | $14.99    | —             | 82             | 2      | 6      | name.com       |
-| Apples.cruises    | available | $68.98    | —             | 90             | 16     | 6      | namecheap      |
-| edamame.cruises   | available | $14.99    | —             | 80             | 9      | 7      | name.com       |
-| toneup.cruises    | available | $14.99    | —             | 80             | 5      | 7      | name.com       |
-| pierogi.cruises   | available | $14.99    | —             | 82             | 7      | 7      | name.com       |
-| robots.cruises    | available | $14.99    | —             | 62             | 47     | 6      | name.com       |
-| flights.cruises   | resell    | —         | —             | 61             | 22     | 7      | Name.com, Inc. |
-| etc.cruises       | premium   | $82.50    | —             | 58             | 32     | 3      | name.com       |
-| skills.cruises    | available | $14.99    | —             | 58             | 47     | 6      | name.com       |
-| systems.cruises   | premium   | $123.75   | —             | 46             | 27     | 7      | name.com       |
-| Tools.cruises     | available | $68.98    | —             | 56             | 40     | 5      | namecheap      |
-| seas.cruises      | premium   | $123.75   | —             | 58             | 13     | 4      | name.com       |
-| stories.cruises   | available | $14.99    | —             | 58             | 36     | 7      | name.com       |
-| LongBeach.cruises | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap      |
-| aliens.cruises    | available | $14.99    | —             | 56             | 35     | 6      | name.com       |
-| spectra.cruises   | available | $14.99    | —             | 62             | 34     | 7      | name.com       |
-| payments.cruises  | available | $14.99    | —             | 58             | 33     | 8      | name.com       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| atp.cruises     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| boat.cruises    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| bit.cruises     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| awe.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| lake.cruises    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| day.cruises     | premium   | $500      | —             | high           | low    | 3      | name.com          |
+| DJI.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| forum.cruises   | resell    | —         | —             | high           | low    | 5      | Porkbun LLC       |
+| fee.cruises     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| Eid.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| domain.cruises  | resell    | —         | —             | high           | medium | 6      | Automattic Inc.   |
+| His.cruises     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| era.cruises     | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| premium.cruises | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 12 |
+| hub.cruises     | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| gas.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| inc.cruises     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
+| ivy.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| net.cruises     | premium   | $500      | —             | high           | medium | 3      | name.com          |
+| lip.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word domains on the .cruises extension. The set spans broad dictionary-style terms and more niche words, with examples such as girls.cruises, jewels.cruises, homes.cruises, and forces.cruises. For founders, the main question is whether the word feels directly relevant to cruise travel or can still support a credible brand. For investors, the key test is tighter: whether the word has clear category fit, commercial meaning, and a low enough ask to justify the extension-specific demand profile. With a median ask of 22.64, price discipline matters less than word quality and relevance.
+This list covers 12,672 one-word .cruises domains, drawn from a wide range of styles including compound travel terms, lifestyle words, and descriptive nouns. With a median asking price near $21.54, most names in this set remain affordable for early acquisition. Whether the goal is securing a memorable brand name or building a small portfolio in the travel space, these domains offer a low-cost entry point into a niche, industry-specific TLD.
 
-- All names use the .cruises extension
-- 12,673 one-word domains in this selection
-- Median ask across the set is 22.64
-- Favor clear, travel-relevant words over vague terms
+- 12,672 one-word .cruises domains across varied styles
+- Median asking price near $21.54, low entry cost
+- Names span travel, hospitality, and lifestyle themes
+- Ownable now for founders building cruise-related brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
