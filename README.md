@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cruises one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,242 domains · **Median ask:** $21.41 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-10
 **Canonical page:** `https://unique.domains/domains/tld/cruises`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| period.cruises  | available | $14.99    | —             | high           | low    | 6      | name.com          |
 | atp.cruises     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
 | boat.cruises    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
 | bit.cruises     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
@@ -83,7 +84,6 @@ print(df.head())
 | inc.cruises     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
 | gas.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | net.cruises     | premium   | $500      | —             | high           | medium | 3      | name.com          |
-| ivy.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
