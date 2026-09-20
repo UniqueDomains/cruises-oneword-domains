@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cruises one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,585 domains · **Median ask:** $30.31 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/cruises`
 **Best for:** founders, investors, studios
 
@@ -73,10 +73,10 @@ print(df.head())
 | clv.cruises     | available | $14.99    | $81.99        | low            | low    | 3      | name.com          |
 | forum.cruises   | resell    | —         | —             | high           | low    | 5      | Porkbun LLC       |
 | fee.cruises     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| DJI.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| dji.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | domain.cruises  | resell    | —         | —             | high           | medium | 6      | Automattic Inc.   |
-| His.cruises     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| Eid.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| his.cruises     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| eid.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | premium.cruises | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 12 |
 | hub.cruises     | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
 | era.cruises     | available | $14.99    | —             | high           | medium | 3      | name.com          |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
