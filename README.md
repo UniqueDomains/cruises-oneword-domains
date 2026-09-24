@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cruises one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,913 domains · **Median ask:** $35.75 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/cruises`
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | forum.cruises   | resell    | —         | —             | high           | low    | 5      | Porkbun LLC       |
 | fee.cruises     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | dji.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| domain.cruises  | resell    | —         | —             | high           | medium | 6      | Automattic Inc.   |
+| domain.cruises  | resell    | —         | —             | medium         | low    | 6      | Automattic Inc.   |
 | his.cruises     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | eid.cruises     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | premium.cruises | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 12 |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

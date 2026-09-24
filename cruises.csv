@@ -24,7 +24,7 @@ aa29309e-1623-45cd-bfe9-3c519d1571a3,bonus.cruises,available,14.99,,high,low,5,n
 4062a346-fbe7-4195-bcf5-330c3c39b166,forum.cruises,resell,,,high,low,5,Porkbun LLC,18/04/2016 04:53,18/04/2027 04:53,
 599753e7-446f-4c80-85c4-2fa1639c6f32,sisterinlaw.cruises,available,14.99,,low,low,13,name.com,,,
 622cc46a-3628-4847-9d50-48b538157d3f,christianname.cruises,available,14.99,,high,low,14,name.com,,,
-dda63933-29b9-4d69-8b39-cc3f0df668a2,spoof.cruises,available,14.99,,high,low,5,name.com,,,
+dda63933-29b9-4d69-8b39-cc3f0df668a2,spoof.cruises,available,56.99,56.99,low,low,5,namesilo,,,23/09/2026 11:26
 9da2858f-45b4-45c9-a428-f85d3b5dd697,greenpark.cruises,available,14.99,,medium,low,10,name.com,,,
 07aca658-b8fc-43fc-9a39-77fceb5193c3,inthedistance.cruises,available,14.99,,medium,low,15,name.com,,,
 22fcaa14-223a-4ea6-8e95-d89f5ca6d49e,auroral.cruises,available,56.99,56.99,low,low,7,namesilo,,,22/09/2026 13:08
@@ -81,7 +81,7 @@ faa3e33a-b8c2-4e9e-8d84-e6125b71f02e,givein.cruises,available,14.99,,high,low,7,
 ad186e7e-a91b-4aed-b0f1-f4e32787572e,jump.cruises,available,56.99,56.99,low,low,4,namesilo,,,22/09/2026 02:34
 56c5ea2f-09fe-4a08-9df2-78fae222f451,asofnow.cruises,available,14.99,,medium,low,9,name.com,,,
 ca4ed93c-e71f-4be6-87de-5434c085f3ef,competing.cruises,available,14.99,,medium,low,9,name.com,,,
-830e275b-4971-4230-98d4-00a0944bcaba,park.cruises,premium,78.54,78.54,high,low,4,namesilo,,,
+830e275b-4971-4230-98d4-00a0944bcaba,park.cruises,premium,78.54,78.54,medium,low,4,namesilo,,,23/09/2026 15:57
 086a37fd-a76c-4896-af0c-b34bede4655f,teens.cruises,available,14.99,,high,low,5,name.com,,,
 7753f63f-ee24-4ce8-85eb-81220de63ef2,beguiling.cruises,available,56.99,56.99,medium,low,9,namesilo,,,22/09/2026 01:38
 919125f4-7b77-4b1c-bc40-3dabf3ae87bf,bowlegged.cruises,available,14.99,81.99,low,low,9,name.com,,,08/08/2026 11:55
@@ -114,10 +114,10 @@ bb6a0265-8669-4a22-858c-2257ce05e68b,barring.cruises,available,14.99,,medium,low
 0c7e11a8-b261-417a-af4a-8fdc6fad2109,quantity.cruises,available,14.99,,medium,low,8,name.com,,,
 dffa9778-c783-4285-8669-03504c6738ec,separate.cruises,available,14.99,81.99,high,low,8,name.com,,,
 9cff34b1-07f0-412e-b8da-1b28bfc1818f,skin.cruises,premium,118.8,118.8,high,low,4,namesilo,,,
-e18b04e9-d2fe-4146-9f0c-d68ce821a4ea,shrub.cruises,available,14.99,,medium,low,5,name.com,,,
+e18b04e9-d2fe-4146-9f0c-d68ce821a4ea,shrub.cruises,available,56.99,56.99,low,low,5,namesilo,,,23/09/2026 11:56
 5c17b65f-08fa-4a95-9033-f9be68a6ca70,financialcrisis.cruises,available,14.99,,medium,low,16,name.com,,,
 e01231e9-00bc-446d-92d4-5d58f132c6f0,specific.cruises,available,14.99,,high,low,8,name.com,,,
-6133ee84-76bf-4b27-962f-935b3cc0baf1,compatible.cruises,available,14.99,81.99,high,low,10,name.com,,,
+6133ee84-76bf-4b27-962f-935b3cc0baf1,compatible.cruises,available,56.99,56.99,medium,low,10,namesilo,,,23/09/2026 16:57
 7e38bb8a-ca69-4267-aa81-49de297225dc,hub.cruises,premium,242,242,high,medium,3,namesilo,,,
 25e6e187-0a8f-4065-bb1d-06a71893523d,gray.cruises,available,14.99,,medium,low,4,name.com,,,
 ca1f0487-0e0f-4078-91c6-81617670f177,week.cruises,premium,118.8,118.8,high,low,4,namesilo,,,
@@ -160,17 +160,17 @@ df988b7d-4c51-4525-b2ac-e818653d7384,bit.cruises,premium,118.8,118.8,high,medium
 bf9dd928-76a6-491f-b2ea-60983f8500d2,incidence.cruises,available,14.99,,medium,low,9,name.com,,,
 122ec6af-69f6-4077-b8ed-504812c74cd6,elsewhere.cruises,available,14.99,,high,low,9,name.com,,,
 1bb5631b-0eb3-4a57-8e59-78525b27953b,incidental.cruises,available,14.99,81.99,low,low,10,name.com,,,
-966b87b4-e78c-477a-9d72-d774b4a1fd7c,sweet.cruises,available,54.98,68.98,low,low,5,namecheap,,,19/09/2026 07:35
+966b87b4-e78c-477a-9d72-d774b4a1fd7c,sweet.cruises,available,54.98,68.98,low,low,5,namecheap,,,23/09/2026 06:03
 bf0e70f5-a370-4656-a6ce-99f0a9cab0ca,distress.cruises,available,14.99,,high,low,8,name.com,,,
 95289a06-26a0-4aff-928c-eab7e7547c0f,anonymous.cruises,available,56.99,56.99,low,low,9,namesilo,,,22/09/2026 05:30
-d42b5553-64d3-4fbe-829a-95808053effd,letter.cruises,available,14.99,,high,low,6,name.com,,,
+d42b5553-64d3-4fbe-829a-95808053effd,letter.cruises,available,54.98,68.98,medium,low,6,namecheap,,,24/09/2026 02:40
 d2ae5f73-711b-42c0-923a-c813ecece8ac,allergenic.cruises,available,14.99,81.99,low,low,10,name.com,,,
 b8e40e65-223d-477e-b089-6a02bd5c0e3e,bump.cruises,available,14.99,,medium,low,4,name.com,,,
 cef6ea3b-663b-46dc-bc67-7350c7aed942,coherently.cruises,available,14.99,,medium,low,10,name.com,,,
 4eae8012-f756-4ce5-be9e-0b726d5b16e4,uptospeed.cruises,available,14.99,,medium,low,11,name.com,,,
 26f76342-ce11-48ae-b946-cd844a531863,exciting.cruises,premium,118.8,118.8,high,low,8,namesilo,,,
 16ace014-efe7-4e39-8f14-4dace4730847,talkabout.cruises,available,14.99,,medium,low,10,name.com,,,
-d07297ef-3144-4337-8415-362a65543ba8,snap.cruises,available,14.99,81.99,high,medium,4,name.com,,,
+d07297ef-3144-4337-8415-362a65543ba8,snap.cruises,available,56.99,56.99,medium,low,4,namesilo,,,24/09/2026 01:20
 b441dca3-9e75-441a-a3df-85e66c917522,strawberryred.cruises,available,14.99,,low,low,14,name.com,,,
 f2207adf-2c2b-4447-844c-0e870cf73696,fearless.cruises,available,54.98,68.98,medium,low,8,namecheap,,,22/09/2026 12:19
 7940ca9f-f95b-47aa-844a-5cf0d1ebb045,tiny.cruises,available,56.99,56.99,low,low,4,namesilo,,,22/09/2026 17:13
@@ -209,7 +209,7 @@ ce0d2ffa-c538-442f-b976-192ae08acee3,overhang.cruises,available,14.99,81.99,low,
 4cee56e7-eada-4dda-b300-de0a123f75a9,mothahfucker.cruises,available,14.99,,medium,low,12,name.com,,,
 ba33695c-72c1-473f-ae20-91181622f7a4,ablaze.cruises,available,14.99,81.99,low,low,6,name.com,,,
 91db215b-6dd9-4dc9-9a9c-022923d65981,generalrelativity.cruises,available,14.99,,high,low,18,name.com,,,
-0e25bca6-5d38-4e93-80dc-7ad19e0ca91e,main.cruises,available,14.99,,high,low,4,name.com,,,
+0e25bca6-5d38-4e93-80dc-7ad19e0ca91e,main.cruises,available,56.99,56.99,medium,low,4,namesilo,,,23/09/2026 09:34
 2d7f8a1d-985e-4927-831d-d7833511d325,alike.cruises,available,56.99,56.99,low,low,5,namesilo,,,21/09/2026 23:59
 a6e90b78-eab9-4ba9-9433-aeca0c75e5ec,authorial.cruises,available,14.99,81.99,low,low,9,name.com,,,07/08/2026 16:19
 69fafde9-dcfe-4a57-8e8d-1376f5927c4b,timeabout.cruises,available,14.99,,low,low,10,name.com,,,
@@ -256,7 +256,7 @@ ffa06201-5e2a-438e-8dd0-dfd4392492a9,aggregated.cruises,available,14.99,81.99,lo
 2966399e-2762-4e43-9fe4-91e04c278289,cotyloid.cruises,available,14.99,81.99,low,low,8,name.com,,,
 e71cd129-cab2-4e39-b202-8e0737a7750a,iwould.cruises,available,14.99,,medium,low,7,name.com,,,
 bad11b3c-b7b7-45a2-b09b-d6cb63090b3b,beautifully.cruises,available,14.99,,medium,low,11,name.com,,,
-442329a1-0006-4063-aae7-f00872eaaa1f,chestnut.cruises,available,14.99,,medium,low,8,name.com,,,
+442329a1-0006-4063-aae7-f00872eaaa1f,chestnut.cruises,available,56.99,56.99,low,low,8,namesilo,,,23/09/2026 14:04
 ed7b41c9-b4c5-4cb2-a7cf-d380de13e9d8,newtestament.cruises,available,14.99,,low,low,13,name.com,,,
 1dab359f-3930-48d0-b0f6-9d41ceabba31,riverotter.cruises,available,14.99,,high,low,11,name.com,,,
 f7d79ef1-3c4c-4a52-ac65-b0540377ed17,agaze.cruises,available,14.99,81.99,low,low,5,name.com,,,
@@ -264,23 +264,23 @@ f7d79ef1-3c4c-4a52-ac65-b0540377ed17,agaze.cruises,available,14.99,81.99,low,low
 c53413e2-099e-4a30-8e39-b496470f2329,gear.cruises,available,14.99,,high,low,4,name.com,,,
 727d0b1a-83dd-4fd9-aab5-5ee6c515522e,doubling.cruises,available,14.99,,medium,low,8,name.com,,,
 910fa76b-4ed8-4dc8-b6b3-722847e6301d,lookback.cruises,available,14.99,,high,low,9,name.com,,,
-c091ab71-8c66-46d6-80b4-280a6fc75b4d,caring.cruises,available,14.99,,high,low,6,name.com,,,
+c091ab71-8c66-46d6-80b4-280a6fc75b4d,caring.cruises,available,56.99,56.99,medium,low,6,namesilo,,,23/09/2026 13:03
 356ab7a8-71bc-404b-ab81-2e618b9183cb,jody.cruises,available,14.99,,high,low,4,name.com,,,
 d0ceb1ca-8b70-4388-99bb-a77f12dcf799,fill.cruises,available,14.99,,medium,low,4,name.com,,,
 62217e9d-3bf9-4056-951d-dd74353db3ea,authorized.cruises,available,56.99,56.99,medium,low,10,namesilo,,,22/09/2026 13:48
 ff4a37e0-7339-424c-9084-f167b4736e0a,upstart.cruises,available,14.99,,high,low,7,name.com,,,
 2e9b3eb8-9a53-4c4a-8f6a-d62a6607a238,alkalotic.cruises,available,14.99,81.99,low,low,9,name.com,,,
 06301e2c-e9f4-4a3c-bf70-3e02d9da18b9,dispatching.cruises,available,14.99,,medium,low,11,name.com,,,
-e97b15c9-b94f-4a4c-b35f-7da50a482e6d,element.cruises,available,14.99,81.99,high,low,7,name.com,,,
+e97b15c9-b94f-4a4c-b35f-7da50a482e6d,element.cruises,available,54.98,68.98,medium,low,7,namecheap,,,23/09/2026 21:07
 d1a3d7bf-50a5-4880-8d49-574f0f5272ac,snapping.cruises,available,14.99,,medium,low,8,name.com,,,
 31dd8b54-0ece-47ec-9c09-10819f67ab8d,mouthfeel.cruises,available,14.99,,low,low,10,name.com,,,
 aa2a1512-a6ae-4c49-a259-28b2787cf2ea,shelter.cruises,available,14.99,,high,low,7,name.com,,,
-293416bb-9265-472f-9225-e700690a53cc,imaginable.cruises,available,14.99,81.99,medium,low,10,name.com,,,
+293416bb-9265-472f-9225-e700690a53cc,imaginable.cruises,available,56.99,56.99,medium,low,10,namesilo,,,23/09/2026 18:44
 536d9a85-bc67-4991-bf66-6c56916b8183,heat.cruises,available,14.99,,high,low,4,name.com,,,
 9daa6f99-41c9-4620-99a6-484f4dd4eced,fireengine.cruises,available,14.99,,high,low,11,name.com,,,
 8f968b44-a7b2-4b75-ab4a-fa9a7780b613,hamburger.cruises,available,14.99,,high,low,9,name.com,,,
 a30888f3-957f-472a-b5f5-28392b8103ef,sick.cruises,available,56.99,56.99,low,low,4,namesilo,,,23/09/2026 02:10
-16775a61-8c85-4634-b9d3-8831383d7a62,burned.cruises,available,14.99,,medium,low,6,name.com,,,
+16775a61-8c85-4634-b9d3-8831383d7a62,burned.cruises,available,54.98,68.98,low,low,6,namecheap,,,23/09/2026 11:37
 fe9a0483-f030-458a-802b-cb71c5d90828,centralised.cruises,available,14.99,,medium,low,11,name.com,,,
 f377d2db-5f5b-45fe-81e7-523a8c7b4d39,ivy.cruises,available,14.99,,high,low,3,name.com,,,
 48af9ddf-69b8-4f33-a9d5-ffa28ba5d23c,pokeabout.cruises,available,14.99,,low,low,10,name.com,,,
@@ -290,7 +290,7 @@ ef70d219-1960-4cbf-b726-3f53e283acb4,trafficlights.cruises,available,14.99,,low,
 9d69cb1e-9457-496c-9ddb-8797f0ba27a0,grimy.cruises,available,14.99,81.99,low,low,5,name.com,,,09/08/2026 09:25
 a6649926-3c37-4312-aefd-f87a4d5e0c91,incommon.cruises,available,14.99,,medium,low,9,name.com,,,
 402f6e3d-7474-4045-b5b6-263c27d1326b,briefs.cruises,available,14.99,,high,low,6,name.com,,,
-06c3858e-5334-455c-be14-fd51d6017c09,order.cruises,available,14.99,81.99,high,medium,5,name.com,,,
+06c3858e-5334-455c-be14-fd51d6017c09,order.cruises,available,54.98,68.98,low,low,5,namecheap,,,23/09/2026 20:44
 de8c0c89-6cc2-454f-8409-a10674c2db25,steer.cruises,available,14.99,,medium,low,5,name.com,,,
 a00df8ea-d189-4b3d-8bb2-d6c0b3cbbec3,shear.cruises,available,14.99,,medium,low,5,name.com,,,
 02ec9243-44f4-41a9-9458-41fe0cc47046,bedaubed.cruises,available,14.99,81.99,low,low,8,name.com,,,09/08/2026 06:32
@@ -329,7 +329,7 @@ ed01c506-7fce-40a2-8c0f-86116bc9ca80,humans.cruises,available,14.99,,high,medium
 52a203e4-cfcf-467f-b2fd-596c3e8c1cb3,ducttape.cruises,available,14.99,,medium,low,9,name.com,,,
 cd801fa8-3708-464f-b205-9622c4574f0d,environmental.cruises,available,14.99,,high,low,13,name.com,,,
 d70d18c4-e77f-4c28-9def-c109c8aa0b73,amyloid.cruises,available,14.99,81.99,low,low,7,name.com,,,
-3216c882-9565-4382-9331-ecb365894ce9,convenient.cruises,available,14.99,,high,low,10,name.com,,,
+3216c882-9565-4382-9331-ecb365894ce9,convenient.cruises,available,54.98,68.98,medium,low,10,namecheap,,,23/09/2026 15:48
 ef201d27-78e7-4fa6-a983-048dfb619f66,alexic.cruises,available,14.99,81.99,low,low,6,name.com,,,
 ddb5cede-f4c2-4b8f-8d13-8a32cd10c91e,outlander.cruises,available,14.99,81.99,low,low,9,name.com,,,
 c1c78852-902a-45da-8c95-2c44666a5e1e,goodasgold.cruises,available,14.99,,high,low,12,name.com,,,
@@ -345,13 +345,13 @@ bc80b0f7-d846-4bf6-9216-eceaa60930c8,likehell.cruises,available,54.98,68.98,low,
 f4bf890d-c6c0-40bf-b569-229d350a4899,voter.cruises,available,14.99,,medium,low,5,name.com,,,
 a4fe2b21-7350-4653-b0fd-8cc505a80fe7,roundabout.cruises,available,14.99,81.99,low,low,11,name.com,,,12/08/2026 08:20
 0e2b1ce8-f481-450a-8d05-adbe96562bcf,greatuncle.cruises,available,14.99,,medium,low,11,name.com,,,
-b3a1cbb7-2db0-4b9d-85ca-3c0453e343a3,retail.cruises,available,14.99,,high,low,6,name.com,,,
-c36d5d4e-686e-4acf-914b-ae0976f601fd,attack.cruises,available,56.99,56.99,medium,low,6,namesilo,,,19/09/2026 14:18
+b3a1cbb7-2db0-4b9d-85ca-3c0453e343a3,retail.cruises,available,54.98,68.98,medium,low,6,namecheap,,,24/09/2026 02:35
+c36d5d4e-686e-4acf-914b-ae0976f601fd,attack.cruises,available,56.99,56.99,medium,low,6,namesilo,,,23/09/2026 17:14
 ef7e1112-80d1-477f-b5df-fa7abdd5a9f1,watt.cruises,available,14.99,,medium,low,4,name.com,,,
 46eb398f-53af-4de1-9603-a76a333669c9,nationalanthem.cruises,available,14.99,,high,low,15,name.com,,,
 19f44bdd-063b-4436-857d-59f4958c5897,overall.cruises,available,14.99,,high,low,7,name.com,,,
 285104d1-6164-4c25-9bc7-02cc62d931f1,examine.cruises,available,14.99,,high,low,7,name.com,,,
-3c815e4e-076b-462b-9b70-265e6b4d7c9a,chance.cruises,available,14.99,,high,low,6,name.com,,,
+3c815e4e-076b-462b-9b70-265e6b4d7c9a,chance.cruises,available,54.98,68.98,medium,low,6,namecheap,,,23/09/2026 13:44
 9cd7e7ac-a17f-4796-9d88-2a36c0dd9c40,watch.cruises,premium,118.8,118.8,high,low,5,namesilo,,,
 e4e9cd0c-2e1b-4578-ba9d-c5cf3380c535,humourous.cruises,available,14.99,,high,low,9,name.com,,,
 dcd53820-18be-4838-b6bb-87ce1851fc2f,adventive.cruises,available,14.99,81.99,low,low,9,name.com,,,
@@ -383,7 +383,7 @@ fa5490ca-2218-4ab8-a24f-a80692582fe9,youngatheart.cruises,available,14.99,,low,l
 48414058-d2c6-4455-89d9-7af37b811d22,redtape.cruises,available,14.99,,low,low,8,name.com,,,
 f2a0a87f-8a9f-4947-8172-181404eb8ece,coefficient.cruises,available,14.99,,high,low,11,name.com,,,
 2f9f9dc5-0a57-4f67-8c89-f98580347026,arabic.cruises,available,56.99,56.99,medium,low,6,namesilo,,,22/09/2026 07:33
-8c3b9739-604e-4660-9bb3-0d3ef8af1727,slick.cruises,available,14.99,81.99,medium,low,5,name.com,,,
+8c3b9739-604e-4660-9bb3-0d3ef8af1727,slick.cruises,available,56.99,56.99,low,low,5,namesilo,,,24/09/2026 02:25
 28f5959b-f245-4c88-8f05-8697c20cd9cf,essayquestion.cruises,available,14.99,,medium,low,14,name.com,,,
 19f08e48-4dfc-46f7-80b8-a3450df17504,sweat.cruises,available,14.99,,medium,low,5,name.com,,,
 86f4ae1e-c6f6-4f75-83de-de37f235a746,parallel.cruises,available,14.99,81.99,medium,low,8,name.com,,,
@@ -402,7 +402,7 @@ c5818051-7d29-41c7-9872-158d7a86a22e,fallover.cruises,available,14.99,,medium,lo
 e54a22b1-2cee-4aac-b881-c0481363ed8f,achenial.cruises,available,14.99,81.99,low,low,8,name.com,,,
 19333dbb-21f1-4cfa-a25d-74e56b6c2486,beheaded.cruises,available,14.99,81.99,low,low,8,name.com,,,09/08/2026 10:21
 3ee20b81-3999-43ec-9d51-1aee1bcf0c83,abstainer.cruises,available,14.99,81.99,low,low,9,name.com,,,
-74c8c367-4985-4bdc-8051-e63ed1e82941,streaming.cruises,available,14.99,,high,low,9,name.com,,,
+74c8c367-4985-4bdc-8051-e63ed1e82941,streaming.cruises,available,56.99,56.99,medium,low,9,namesilo,,,24/09/2026 02:31
 4ce87349-81bf-455f-9a25-02fb4aaef0b8,baking.cruises,available,56.99,56.99,medium,low,6,namesilo,,,22/09/2026 16:25
 c0008a41-f8da-4e71-b96d-758ecf44abc0,abkhas.cruises,available,14.99,81.99,low,low,6,name.com,,,
 5da78f97-7fc1-4ede-ad4f-a1eabb661895,patrician.cruises,available,14.99,81.99,low,low,9,name.com,,,06/08/2026 19:34
@@ -416,7 +416,7 @@ ccac9c35-82be-41b9-8c44-6dc462574822,thirtythree.cruises,available,14.99,,high,l
 e2e936e4-99b5-4069-9316-c81c39520f9f,inc.cruises,premium,118.8,118.8,medium,low,3,namesilo,,,
 2fed961c-291e-4aea-ac54-7512f7852855,definitively.cruises,available,14.99,,medium,low,12,name.com,,,
 77ed60a5-6888-4fc8-bef3-81ec8abaefbc,chagrined.cruises,available,14.99,81.99,low,low,9,name.com,,,
-97a0f43d-729c-405e-9c7a-a44d9fca00d0,brown.cruises,available,14.99,,high,low,5,name.com,,,
+97a0f43d-729c-405e-9c7a-a44d9fca00d0,brown.cruises,available,56.99,56.99,medium,low,5,namesilo,,,23/09/2026 10:03
 69ffeb25-7b50-44e7-89cc-26b954ce0a00,refrigerator.cruises,available,14.99,,high,low,12,name.com,,,
 94c4b7e9-8e47-46d8-9bae-f05032802ace,period.cruises,available,14.99,,high,low,6,name.com,,,
 f2b0542b-a0dd-49a8-9150-ca2441f7a6ce,jacket.cruises,available,14.99,,high,low,6,name.com,,,
@@ -452,7 +452,7 @@ f561e672-6912-422f-a2ed-d3b3fccd4640,armoured.cruises,available,14.99,81.99,low,
 ae0af392-12d5-43a1-bfb0-f8ee797f77e7,intricate.cruises,available,14.99,,high,low,9,name.com,,,
 a68593a6-1f54-4355-a1e7-39fe2fe4c231,tap.cruises,available,14.99,,high,medium,3,name.com,,,
 3432415c-5930-4b7e-8344-bea668b9d448,anile.cruises,available,14.99,81.99,low,low,5,name.com,,,
-640b4edb-1d39-486b-b1d9-ab7f593c33bc,shining.cruises,available,14.99,,high,low,7,name.com,,,
+640b4edb-1d39-486b-b1d9-ab7f593c33bc,shining.cruises,available,54.98,68.98,medium,low,7,namecheap,,,23/09/2026 11:49
 070166fc-da6d-41d5-b9bd-bfb37b268710,declining.cruises,available,14.99,,medium,low,9,name.com,,,
 9565b560-71da-4bd3-b612-3730c4d4ccb2,polygon.cruises,available,14.99,,high,low,7,name.com,,,
 ff59311b-c573-43a6-bdd6-38dd9319a0b9,attitude.cruises,available,14.99,,high,low,8,name.com,,,
@@ -475,7 +475,7 @@ e61363fa-c2eb-430c-bc3f-059d1601e39a,supportive.cruises,available,14.99,,high,lo
 db3660b6-2272-444a-bef2-0ce0602ca7e7,hanger.cruises,available,14.99,,medium,low,6,name.com,,,
 5dc0f4c1-adac-47f6-9ea6-d5d2f316b87c,crossroads.cruises,available,14.99,,medium,low,10,name.com,,,
 193dc0bb-2711-474d-a7d0-76c8359ff293,anaplastic.cruises,available,14.99,81.99,low,low,10,name.com,,,
-5c5b48ef-2b0a-4b0c-bd69-5a5f8d641d6f,markets.cruises,available,54.98,68.98,low,low,7,namecheap,,,19/09/2026 05:44
+5c5b48ef-2b0a-4b0c-bd69-5a5f8d641d6f,markets.cruises,available,56.99,56.99,low,low,7,namesilo,,,23/09/2026 06:42
 75b954c2-2310-4eb2-8a64-07c8c077e401,tahoecity.cruises,available,54.98,68.98,low,low,10,namecheap,,,08/09/2026 04:34
 cdd1d352-bcb8-40ae-9596-1184c0408ad9,bagdad.cruises,available,14.99,,medium,low,6,name.com,,,
 c1c5ecc9-1277-4ac7-91b6-2365177695ad,gasstation.cruises,available,14.99,,medium,low,11,name.com,,,
@@ -483,7 +483,7 @@ c7512bc6-611e-4ff2-861e-2d1c08feb53e,realestate.cruises,available,14.99,,medium,
 5653e0fc-b23f-47c1-98c7-82bda37f6385,intrepid.cruises,available,56.99,56.99,medium,low,8,namesilo,,,22/09/2026 12:24
 7f4b1116-65c7-46e4-ba17-4ee195369785,atoxic.cruises,available,14.99,81.99,low,low,6,name.com,,,07/08/2026 14:04
 470dd82d-9cc1-464c-8aca-e5992358e491,lip.cruises,available,14.99,,high,low,3,name.com,,,
-ddeac708-485d-453a-b62d-e08b64c55aae,broken.cruises,available,14.99,,medium,low,6,name.com,,,
+ddeac708-485d-453a-b62d-e08b64c55aae,broken.cruises,available,56.99,56.99,low,low,6,namesilo,,,23/09/2026 09:56
 1a943eba-b31e-4c13-b347-6cf5d0dacf4e,asterismal.cruises,available,14.99,81.99,low,low,10,name.com,,,07/08/2026 09:01
 6c9074ea-5f16-4a5f-b2fb-c3cb6c84241a,whiteboard.cruises,available,14.99,,high,low,10,name.com,,,
 ae6a9944-5783-46f0-888c-07b722564ab6,lowering.cruises,available,14.99,,high,low,8,name.com,,,
@@ -512,14 +512,14 @@ a007f7f5-d20f-414c-9f87-990689a5e4d1,acapnial.cruises,available,14.99,81.99,low,
 b53d3c0b-26ca-4bc9-b2de-ba6c7d78c03f,pitted.cruises,available,14.99,81.99,low,low,6,name.com,,,
 ce12bc1c-9d1f-4484-93ec-d86afab514f6,unending.cruises,available,14.99,81.99,low,low,8,name.com,,,
 535ef671-f88c-4624-9340-7801f1b6589e,hardcurrency.cruises,available,14.99,,high,low,13,name.com,,,
-57855f7a-76cd-4f25-829b-5d9463374ef2,careful.cruises,available,14.99,,high,low,7,name.com,,,
+57855f7a-76cd-4f25-829b-5d9463374ef2,careful.cruises,available,54.98,68.98,medium,low,7,namecheap,,,23/09/2026 12:50
 4c4aacc0-35bd-47e8-99f9-9de4d75206b0,artificial.cruises,available,56.99,56.99,low,low,10,namesilo,,,22/09/2026 08:57
 796212e2-5918-4c41-b201-b9a312697af3,birthcertificate.cruises,available,14.99,,medium,low,17,name.com,,,
 74a918fb-face-4d23-a624-e4fda46f578d,fervent.cruises,available,14.99,81.99,low,low,7,name.com,,,06/08/2026 16:14
 24e49ab5-7d7d-45f5-9508-efbc200dacc6,dark.cruises,available,14.99,81.99,medium,medium,4,name.com,,,
 970d5974-dfa1-46cd-aa08-68bcafc08076,self.cruises,available,54.98,68.98,low,low,4,namecheap,,,19/09/2026 02:59
 cb1f3122-3536-446f-b46f-46f039b26545,coverart.cruises,available,14.99,,high,low,9,name.com,,,
-3b8f0cfe-dc9a-414a-a91c-107e3612a4cd,facts.cruises,available,54.98,68.98,medium,low,5,namecheap,,,20/09/2026 19:39
+3b8f0cfe-dc9a-414a-a91c-107e3612a4cd,facts.cruises,available,56.99,56.99,medium,low,5,namesilo,,,23/09/2026 17:41
 a8821c67-a68e-49a4-ad66-100753842d8b,lowered.cruises,available,14.99,,medium,low,7,name.com,,,
 37d2aca8-08ce-4114-9dc5-edf9b2a2ce56,poll.cruises,available,14.99,,high,low,4,name.com,,,
 cf44c63c-f3e3-4128-9bca-15c15b6f1f8c,airlike.cruises,available,14.99,81.99,low,low,7,name.com,,,
@@ -539,7 +539,7 @@ c6ef9766-e526-4a38-96b5-abee7347b961,oneyear.cruises,available,,,medium,low,8,,,
 c569e368-4eef-414e-a564-28db9fdf917d,moscow.cruises,premium,78.54,78.54,high,low,6,namesilo,,,
 b7161a68-945c-4936-ab4f-2b3044ff7e84,clam.cruises,available,14.99,,high,low,4,name.com,,,
 ef8da702-40ab-4ca2-a8bb-99ef173e3bf5,chemically.cruises,available,14.99,,medium,low,10,name.com,,,
-48e3baa2-c5b8-42f3-a41f-4ccda6d2c8a0,raised.cruises,available,14.99,,high,low,6,name.com,,,
+48e3baa2-c5b8-42f3-a41f-4ccda6d2c8a0,raised.cruises,available,56.99,56.99,medium,low,6,namesilo,,,23/09/2026 09:46
 d35717cc-8ab3-41ef-97c7-1bb917b9d334,anomalous.cruises,available,54.98,68.98,low,low,9,namecheap,,,
 a016bc1b-4b7b-4ca6-9195-03a4118f5412,version.cruises,available,14.99,,high,low,7,name.com,,,
 09332d41-c37f-4b9b-9ddd-cf5d37274014,allantoic.cruises,available,14.99,81.99,low,low,9,name.com,,,
@@ -561,7 +561,7 @@ bc85d8e9-40a3-4ce7-aebe-952fc4a653ed,revelatory.cruises,available,14.99,81.99,lo
 fe9c95f2-5208-49f6-a13f-2d7a63482767,toll.cruises,available,,,medium,low,4,,,,
 bc8bd69f-c171-4bd9-b1c8-6b03c383f970,referable.cruises,available,14.99,81.99,low,low,9,name.com,,,07/08/2026 01:28
 1befcb9b-e93a-4b36-a21b-489db5a28bf9,sheer.cruises,available,56.99,56.99,low,low,5,namesilo,,,22/09/2026 23:12
-f2f4c576-f515-43db-9e25-ff5e987d609a,team.cruises,available,56.99,56.99,medium,low,4,namesilo,,,19/09/2026 13:59
+f2f4c576-f515-43db-9e25-ff5e987d609a,team.cruises,available,56.99,56.99,medium,low,4,namesilo,,,23/09/2026 16:51
 d2c4a65d-d6bc-43f0-9bdf-ba02fa8924c8,needy.cruises,available,14.99,81.99,medium,low,5,name.com,,,
 7143d331-a254-40f3-8cee-18ea6b118208,generalquarters.cruises,available,14.99,,medium,low,16,name.com,,,
 55a9dbcb-126b-4025-923b-859b42fdf0b3,bowls.cruises,available,14.99,,medium,low,5,name.com,,,
@@ -585,7 +585,7 @@ c815cf15-cb08-4a62-82a2-b605a1228876,nailclipper.cruises,available,14.99,,medium
 63f8f664-5eaa-4476-89d3-f07af88ebd11,confusion.cruises,available,14.99,,medium,low,9,name.com,,,
 a4a4222a-f192-4a2c-986d-e0c2f25aad18,confused.cruises,available,14.99,81.99,low,low,8,name.com,,,07/08/2026 12:02
 b7923dca-2dd0-4caa-9788-8ad9bbd1db40,smell.cruises,available,14.99,,high,low,5,name.com,,,
-3fefa8a4-f0e9-4319-be36-896dd8063eab,concerned.cruises,available,14.99,81.99,medium,low,9,name.com,,,
+3fefa8a4-f0e9-4319-be36-896dd8063eab,concerned.cruises,available,54.98,68.98,low,low,9,namecheap,,,23/09/2026 18:58
 dfff13a0-a600-4c95-9eeb-b7047c580c80,cattax.cruises,available,14.99,,medium,low,7,name.com,,,
 deb9715d-a21c-42d6-9b14-3383e86d383f,alto.cruises,available,14.99,81.99,low,low,4,name.com,,,
 2e03cdfa-5f69-446a-9d03-873cbc0835d7,steak.cruises,available,14.99,,high,low,5,name.com,,,
@@ -625,7 +625,7 @@ bdbef3b2-ca3e-46e5-a3e1-2c66766f0f52,tails.cruises,available,14.99,,high,low,5,n
 bbe6d6d0-4bdc-44f0-b3fb-1df744f8e3d7,shrewd.cruises,available,56.99,56.99,low,low,6,namesilo,,,22/09/2026 10:37
 f3ddd407-4c50-42bb-8bf0-91f304b7e283,incorrect.cruises,available,14.99,,high,low,9,name.com,,,
 62fc1f05-aa32-4363-ad44-2dd3a49e0308,bell.cruises,available,14.99,,high,low,4,name.com,,,
-6fc4ddf3-af03-41bb-8e8e-5a02e6f21f12,comical.cruises,available,14.99,,high,low,7,name.com,,,
+6fc4ddf3-af03-41bb-8e8e-5a02e6f21f12,comical.cruises,available,56.99,56.99,medium,low,7,namesilo,,,23/09/2026 15:19
 69d813a4-5717-413b-9532-c2bc7fc6e976,assertive.cruises,available,14.99,81.99,low,low,9,name.com,,,07/08/2026 05:59
 d6a8bf9d-f5f7-496d-ac9a-ba51e1cbcb84,onyourmark.cruises,available,14.99,,high,low,12,name.com,,,
 53be741a-9348-4632-a59a-3a5dd868ddd6,fucking.cruises,available,14.99,,medium,medium,7,name.com,,,
@@ -684,10 +684,10 @@ b3829a4f-d59c-46a3-9a95-8f4f8fbbd490,ascensive.cruises,available,14.99,81.99,low
 b3ce391a-2622-4394-858e-784a308afa4f,atypical.cruises,available,14.99,81.99,medium,low,8,name.com,,,07/08/2026 16:06
 507b6a03-31ee-46b4-9f19-614dcd0b9e23,mobile.cruises,premium,118.8,118.8,medium,medium,6,namesilo,,,
 a7f19fd1-72a1-40f4-80a1-69a7693fb860,yeasty.cruises,available,14.99,81.99,low,low,6,name.com,,,08/08/2026 19:56
-139c56a8-b9c4-4d34-9f2d-2b3679c2e8d8,film.cruises,premium,118.8,118.8,medium,low,4,namesilo,,,19/09/2026 10:37
+139c56a8-b9c4-4d34-9f2d-2b3679c2e8d8,film.cruises,premium,118.8,118.8,medium,low,4,namesilo,,,23/09/2026 07:55
 a92026b4-4a7f-4320-9ad3-89a30e5066cd,alpestrine.cruises,available,14.99,81.99,low,low,10,name.com,,,
 caf52878-269c-45f5-8378-e2e7c360f5ae,acetylic.cruises,available,14.99,81.99,low,low,8,name.com,,,
-042a7769-605f-4f9f-a24f-dc4dbef67911,distribution.cruises,available,56.99,56.99,low,low,12,namesilo,,,19/09/2026 09:11
+042a7769-605f-4f9f-a24f-dc4dbef67911,distribution.cruises,available,56.99,56.99,low,low,12,namesilo,,,23/09/2026 07:20
 ca93fb5d-1cfa-40c7-ace8-037a512fbd86,aerie.cruises,available,,,high,low,5,,,,
 9540cb76-e273-4a61-816e-d9143c1c0e1a,beaten.cruises,available,14.99,81.99,low,low,6,name.com,,,09/08/2026 05:47
 09f99829-10fd-45bb-9406-be2c43ab6715,allopatric.cruises,available,14.99,81.99,low,low,10,name.com,,,
@@ -721,7 +721,7 @@ b8fa7fff-ee5d-4fd5-8fab-464a640d0744,inarrears.cruises,available,14.99,81.99,low
 3ead83c8-5cd6-484d-b0d4-2678377413d8,foot.cruises,available,14.99,,medium,low,4,name.com,,,
 be66a179-df49-4db6-a150-aee3f54cb6bf,committing.cruises,available,14.99,,medium,low,10,name.com,,,
 c041b663-badc-4af0-8ab9-631802ad40df,take.cruises,available,14.99,,high,low,4,name.com,,,
-f5582ca8-df41-4e65-b59a-50bdffadebdb,discourse.cruises,available,14.99,81.99,high,low,9,name.com,,,
+f5582ca8-df41-4e65-b59a-50bdffadebdb,discourse.cruises,available,56.99,56.99,medium,low,9,namesilo,,,23/09/2026 22:52
 d16b5829-2068-45e1-961d-cc9a6e555e9c,career.cruises,available,14.99,,high,low,6,name.com,,,
 488a402f-08ab-41cc-867a-dc7866b35d60,slim.cruises,available,14.99,,high,low,4,name.com,,,
 350e7029-2101-42ed-bd94-4d1be3b0cac3,interpersonal.cruises,available,14.99,,high,low,13,name.com,,,
@@ -733,7 +733,7 @@ f1a86c01-579d-48a6-ac75-a7a52175290a,adlib.cruises,available,14.99,81.99,low,low
 253d5dc6-699e-4c7c-80e6-534497a62b26,punchabove.cruises,available,14.99,,low,low,11,name.com,,,
 08cd19cf-338c-4db1-bfa2-28426a028655,handmedown.cruises,available,14.99,,high,low,12,name.com,,,
 0dea2e4c-a3b5-419f-b078-930b67b6a41b,finalwords.cruises,available,14.99,,high,low,11,name.com,,,
-e6c5e70c-b2dd-4f8d-b6c7-2da2b67db723,bulky.cruises,available,14.99,,medium,low,5,name.com,,,
+e6c5e70c-b2dd-4f8d-b6c7-2da2b67db723,bulky.cruises,available,56.99,56.99,low,low,5,namesilo,,,23/09/2026 10:36
 28a7a737-e113-4bfc-ae8e-1f66c0fe829e,anamorphic.cruises,available,14.99,81.99,low,low,10,name.com,,,
 4d3cf364-0c3a-444e-be41-1b749c34acd5,atthispoint.cruises,available,14.99,,medium,low,13,name.com,,,
 d41ccbd5-adbb-4367-bfa6-b42a41c098eb,packed.cruises,available,14.99,,medium,low,6,name.com,,,
@@ -748,7 +748,7 @@ cce625c8-174b-48d0-b274-8d1aefff1f6a,mental.cruises,available,54.98,68.98,medium
 2b152258-7768-4f1c-b73f-b40b68e42df1,bearing.cruises,available,54.98,68.98,low,low,7,namecheap,,,22/09/2026 18:34
 c7c50ae6-125f-4846-970c-7ae74f97a1d2,confetti.cruises,available,14.99,,high,low,8,name.com,,,
 d7419dc5-b05c-4c82-b514-fb9988188c8b,publicised.cruises,available,14.99,,medium,low,10,name.com,,,
-49f13394-65cb-4bd4-8a21-4e53f181f099,critical.cruises,available,14.99,81.99,high,low,8,name.com,,,
+49f13394-65cb-4bd4-8a21-4e53f181f099,critical.cruises,available,56.99,56.99,low,low,8,namesilo,,,24/09/2026 02:02
 9121a612-93ef-4403-860d-7d4b7e209492,bahamian.cruises,available,14.99,81.99,low,low,8,name.com,,,08/08/2026 08:31
 11314309-5bf6-4500-bd9e-80b2d1a3df27,aids.cruises,available,14.99,,medium,low,4,name.com,,,
 4cd4bb70-beec-4404-9366-1e790440d97f,ennead.cruises,available,14.99,81.99,low,low,6,name.com,,,
@@ -773,7 +773,7 @@ c3730904-e03f-4bd3-b904-7de7d2014afb,promoter.cruises,available,14.99,,high,low,
 f29ce57f-6979-444c-86f0-560910dd9813,quiteafew.cruises,available,14.99,,medium,low,11,name.com,,,
 852be43b-d0ce-4a42-972e-b98f17c76313,treehugger.cruises,available,14.99,,medium,low,11,name.com,,,
 724fdf0b-9fe4-41db-93dd-8e7f65e64ce7,appearance.cruises,available,14.99,81.99,medium,low,10,name.com,,,08/09/2026 12:55
-a958af3d-138d-41c0-8c36-b0f2dc91fb6d,compressed.cruises,available,14.99,81.99,medium,low,10,name.com,,,
+a958af3d-138d-41c0-8c36-b0f2dc91fb6d,compressed.cruises,available,54.98,68.98,low,low,10,namecheap,,,23/09/2026 18:05
 3c8dd6b6-d3b0-4b45-8f7d-da41533dd1e8,beingas.cruises,available,14.99,,medium,low,8,name.com,,,
 211fc97d-4c01-4169-991e-7a24fea7ebaf,haveotherideas.cruises,available,14.99,,medium,low,16,name.com,,,
 4d8aeec2-3f9d-472b-95cc-7611623a6642,alright.cruises,available,56.99,56.99,medium,low,7,namesilo,,,22/09/2026 01:15
@@ -796,9 +796,9 @@ fffa8fd8-9cc4-4af4-bdbd-8c8748fc2b1e,era.cruises,available,14.99,,high,medium,3,
 e0ee7fcf-4728-485c-8324-ca3d898865dd,opt.cruises,available,14.99,,medium,low,3,name.com,,,
 9b46ed10-acb9-46b7-b9ef-db3991be86c6,archetypal.cruises,available,14.99,81.99,low,low,10,name.com,,,06/08/2026 15:32
 5d2201f4-2793-4874-8e4b-55e0bf2880ee,challenging.cruises,available,14.99,,high,low,11,name.com,,,
-79c797de-0ab9-4c98-96ae-03be55b58b65,domain.cruises,resell,,,high,medium,6,Automattic Inc.,27/08/2023 07:29,27/08/2027 07:29,
+79c797de-0ab9-4c98-96ae-03be55b58b65,domain.cruises,resell,,,medium,low,6,Automattic Inc.,27/08/2023 07:29,27/08/2027 07:29,23/09/2026 04:43
 57f598a5-f599-4877-a662-0763e44bdf90,finished.cruises,available,14.99,,medium,low,8,name.com,,,
-c68f539c-91ed-45d1-a7cc-f7fe786a308e,continued.cruises,available,14.99,81.99,high,low,9,name.com,,,
+c68f539c-91ed-45d1-a7cc-f7fe786a308e,continued.cruises,available,56.99,56.99,medium,low,9,namesilo,,,23/09/2026 22:14
 63e5efb9-97df-41a7-933d-b5f96389138f,appareled.cruises,available,14.99,81.99,low,low,9,name.com,,,06/08/2026 04:41
 d6ba2993-8c8d-4346-a2f1-62af5f4f0dff,manual.cruises,available,14.99,,medium,low,6,name.com,,,
 ae7dccf0-168b-463b-9826-73501759d2c1,respected.cruises,available,14.99,,high,low,9,name.com,,,
@@ -808,7 +808,7 @@ ae7dccf0-168b-463b-9826-73501759d2c1,respected.cruises,available,14.99,,high,low
 82a1d1fc-db9f-475d-b818-45c24ae804de,peeled.cruises,available,14.99,81.99,low,low,6,name.com,,,08/08/2026 18:24
 de2f3aa2-1193-4ad4-9ae9-05700ff67615,childofthekitchen.cruises,available,14.99,,medium,low,20,name.com,,,
 479af099-c6f5-4871-8da5-e10f6ff3e404,terminalhair.cruises,available,14.99,,low,low,13,name.com,,,
-9305830e-48d1-4c68-a372-49619f1540e6,shed.cruises,available,14.99,,medium,low,4,name.com,,,
+9305830e-48d1-4c68-a372-49619f1540e6,shed.cruises,available,56.99,56.99,low,low,4,namesilo,,,23/09/2026 12:18
 14a7be70-0c93-4d42-ba4a-626bb2219e5d,easymark.cruises,available,14.99,,medium,low,9,name.com,,,
 4aea7053-bfee-493e-96f2-b9060a2fdf27,muckabout.cruises,available,14.99,,low,low,10,name.com,,,
 9bc2b62b-e17f-4d22-8e97-9d5fdf6d70fc,goods.cruises,available,14.99,,medium,low,5,name.com,,,
@@ -838,7 +838,7 @@ ddd47aaf-3207-4dc0-b256-b6a1fd67acc2,staring.cruises,available,54.98,68.98,low,l
 22f05d58-37fd-4ef3-af8d-95e8d3c406fa,anaemia.cruises,available,14.99,,medium,low,7,name.com,,,
 6c09047d-a0f7-48ee-a375-116d864bb862,panoramic.cruises,available,54.98,68.98,medium,low,9,namecheap,,,22/09/2026 21:06
 e327700d-a0b9-4e27-ac4f-8e3daaabd825,deal.cruises,premium,128.7,128.7,low,low,4,namecheap,,,19/09/2026 16:06
-f6e620ab-5c97-49e0-82ad-ba3cf1b86575,bigmoney.cruises,available,14.99,,high,low,9,name.com,,,
+f6e620ab-5c97-49e0-82ad-ba3cf1b86575,bigmoney.cruises,available,56.99,56.99,medium,low,9,namesilo,,,23/09/2026 14:12
 137d3d06-62a9-4562-8610-28d3e8ccab31,atheart.cruises,available,14.99,,medium,low,8,name.com,,,
 49d39a55-40dd-4b21-b343-1c363264dd9c,polythene.cruises,available,14.99,,medium,low,9,name.com,,,
 937b9dda-bfa8-4db8-a5ae-07867b0bfc99,solely.cruises,available,14.99,81.99,low,low,6,name.com,,,
@@ -936,7 +936,7 @@ ed205d1d-6554-4c24-b6c7-717b5afa8a11,grandmotherinlaw.cruises,available,14.99,,h
 23c39400-4711-4c59-bbd4-213f908d5d84,lacking.cruises,available,14.99,,high,low,7,name.com,,,
 b2f21aa7-1e13-49b8-9c52-522b353542c5,pay.cruises,premium,118.8,118.8,high,medium,3,namesilo,,,
 5f335452-3220-4a7a-8625-fc12c9c46cb0,adobe.cruises,available,,,high,low,5,,,,
-9dda6497-93ab-4cb5-9d9d-96d1b42d87d7,learned.cruises,available,14.99,81.99,high,low,7,name.com,,,
+9dda6497-93ab-4cb5-9d9d-96d1b42d87d7,learned.cruises,available,54.98,68.98,low,low,7,namecheap,,,23/09/2026 19:31
 d87edf13-8ad1-4acf-9327-222b51e80da3,grown.cruises,available,54.98,68.98,low,low,5,namecheap,,,08/09/2026 15:16
 23891032-e1ed-4e4d-81bc-1a8d1014831e,alloyed.cruises,available,14.99,81.99,low,low,7,name.com,,,
 967a6e51-c56a-44f6-b13f-ad490688054a,fibre.cruises,available,14.99,,high,low,5,name.com,,,
