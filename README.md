@@ -1,10 +1,10 @@
-# Available .CRUISES One-Word Domains (23,299)
+# Available .CRUISES One-Word Domains (23,702)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C299%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C702%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cruises one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,299 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,702 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,299 domains · **Median ask:** $40.90 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 23,702 domains · **Median ask:** $41.44 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/cruises`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| aas.cruises        | available | $56.99    | $56.99        | high           | low    | 3      | namesilo  |
-| paradise.cruises   | resell    | —         | —             | high           | low    | 8      | —         |
-| day.cruises        | premium   | $500      | —             | high           | low    | 3      | name.com  |
-| ado.cruises        | available | $56.99    | $56.99        | high           | low    | 3      | namesilo  |
-| queensland.cruises | resell    | —         | —             | high           | low    | 10     | —         |
-| eye.cruises        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
-| aim.cruises        | available | $56.99    | $56.99        | high           | medium | 3      | namesilo  |
-| try.cruises        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
-| boy.cruises        | available | $14.99    | —             | high           | low    | 3      | name.com  |
-| view.cruises       | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
-| doc.cruises        | available | $56.99    | $56.99        | high           | medium | 3      | namesilo  |
-| asian.cruises      | premium   | $242      | $242          | high           | low    | 5      | namesilo  |
-| its.cruises        | available | $14.99    | —             | high           | medium | 3      | name.com  |
-| pearl.cruises      | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo  |
-| lol.cruises        | available | $14.99    | —             | high           | low    | 3      | name.com  |
-| fijian.cruises     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo  |
-| mel.cruises        | available | $56.99    | $56.99        | high           | low    | 3      | namesilo  |
-| gaming.cruises     | premium   | $242      | $242          | high           | low    | 6      | namesilo  |
-| msg.cruises        | available | $14.99    | —             | high           | low    | 3      | name.com  |
-| pirate.cruises     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| aas.cruises        | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
+| paradise.cruises   | resell    | —         | —             | high           | low    | 8      | Porkbun LLC |
+| day.cruises        | premium   | $500      | —             | high           | low    | 3      | name.com    |
+| aim.cruises        | available | $56.99    | $56.99        | high           | medium | 3      | namesilo    |
+| queensland.cruises | resell    | —         | —             | high           | low    | 10     | Porkbun LLC |
+| eye.cruises        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo    |
+| boy.cruises        | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| try.cruises        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo    |
+| doc.cruises        | available | $56.99    | $56.99        | high           | medium | 3      | namesilo    |
+| view.cruises       | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
+| its.cruises        | available | $14.99    | —             | high           | medium | 3      | name.com    |
+| asian.cruises      | premium   | $242      | $242          | high           | low    | 5      | namesilo    |
+| lol.cruises        | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| pearl.cruises      | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo    |
+| mel.cruises        | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
+| fijian.cruises     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo    |
+| msg.cruises        | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| gaming.cruises     | premium   | $242      | $242          | high           | low    | 6      | namesilo    |
+| nix.cruises        | available | $54.98    | $68.98        | high           | low    | 3      | namecheap   |
+| pirate.cruises     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,299 live domains                        |
+| 1,000-row public sample | 23,702 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
