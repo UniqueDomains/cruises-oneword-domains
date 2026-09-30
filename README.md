@@ -1,10 +1,10 @@
-# Available .CRUISES One-Word Domains (26,888)
+# Available .CRUISES One-Word Domains (29,237)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C888%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C237%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cruises one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,888 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,237 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,888 domains · **Median ask:** $42.73 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 29,237 domains · **Median ask:** $43.63 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/cruises`
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | boy.cruises        | available | $54.98    | $68.98        | high           | low    | 3      | namecheap   |
 | try.cruises        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo    |
 | cbc.cruises        | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
-| view.cruises       | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
+| view.cruises       | premium   | $102.67   | $102.67       | high           | medium | 4      | spaceship   |
 | csa.cruises        | available | $44.71    | $44.71        | high           | low    | 3      | spaceship   |
 | asian.cruises      | premium   | $242      | $242          | high           | low    | 5      | namesilo    |
-| doc.cruises        | available | $56.99    | $56.99        | high           | medium | 3      | namesilo    |
+| dma.cruises        | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
 | pearl.cruises      | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo    |
-| drs.cruises        | available | $43.20    | $43.20        | medium         | low    | 3      | cloudflare  |
+| doc.cruises        | available | $56.99    | $56.99        | high           | medium | 3      | namesilo    |
 | fijian.cruises     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo    |
-| hog.cruises        | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
+| drs.cruises        | available | $43.20    | $43.20        | medium         | low    | 3      | cloudflare  |
 | gaming.cruises     | premium   | $242      | $242          | high           | low    | 6      | namesilo    |
-| ics.cruises        | available | $8.24     | $44.80        | high           | low    | 3      | porkbun     |
-| pirate.cruises     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo    |
+| dsc.cruises        | available | $8.24     | $46.23        | high           | low    | 3      | dynadot     |
+| pirate.cruises     | premium   | $128.70   | $128.70       | high           | low    | 6      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,888 live domains                        |
+| 1,000-row public sample | 29,237 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRUISES One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
